@@ -1,4 +1,4 @@
-# Educational Assembly Benchmark Suite
+# Assembly Benchmark Suite
 
 An ARM64 (Apple Silicon) assembly optimization project demonstrating the power of SIMD (NEON) instructions and low-level optimizations compared to high-level C++ (-O2 optimized).
 
